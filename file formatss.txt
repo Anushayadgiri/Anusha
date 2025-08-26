@@ -1,0 +1,45 @@
+Q. how many file formats we can produce from tableau ?
+Answer: In files we have
+            1. Export packaged workbook 
+            2. Export as power point
+            3. Print to PDF
+            4. Import workbook 
+            5. Data source 
+     B. In story we have 
+            1. Export image
+     C. In server we have
+            1. Publish workbook 
+            2. Tableau publicA. In Files:
+Export Packaged Workbook
+
+Save your workbook with data as a single file (.twbx) to share with others.
+Export as PowerPoint
+
+Turn your Tableau dashboard into a PowerPoint presentation for easy sharing.
+Print to PDF
+
+Save your workbook as a PDF for a static report that can be shared or printed.
+Import Workbook
+
+Open an existing Tableau workbook (.twb or .twbx) to edit or view it.
+Data Source
+
+Manage or update the data used in your Tableau workbook.
+B. In Story:
+Export Image
+Save a snapshot of your dashboard as an image (PNG/JPEG) to include in other documents.
+C. In Server:
+Publish Workbook
+
+Upload your workbook to Tableau Server or Tableau Online to share it with others.
+Tableau Public
+
+Publish your workbook online on Tableau Public, making it publicly accessible.
+
+
+
+
+
+
+
+
